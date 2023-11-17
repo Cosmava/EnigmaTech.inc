@@ -45,16 +45,16 @@ header {
 }
 
 .column.lside{
-    width: 20%;
+    width: 10%;
     text-align: left;
 
 }
 .column.middle{
-    width: 60%;
+    width: 80%;
     text-align: center;  
 }
 .column.rside{
-    width: 20%;
+    width: 10%;
     text-align: right;
 }
 .row:after{
